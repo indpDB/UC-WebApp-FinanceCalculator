@@ -1,46 +1,106 @@
 [
-      {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/01.png",
-            "URL": "https://www.calculator.net/bmi-calculator.html"
+       {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/01.png",
+            "URL": "https://groww.in/calculators/sip-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/02.png",
-            "URL": "https://www.calculator.net/calorie-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/02.png",
+            "URL": "https://groww.in/calculators/lumpsum-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/03.png",
-            "URL": "https://www.calculator.net/body-fat-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/03.png",
+            "URL": "https://groww.in/calculators/swp-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/04.png",
-            "URL": "https://www.calculator.net/bmr-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/04.png",
+            "URL": "https://groww.in/calculators/mutual-fund-returns-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/05.png",
-            "URL": "https://www.calculator.net/ideal-weight-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/05.png",
+            "URL": "https://groww.in/calculators/sukanya-samriddhi-yojana-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/06.png",
-            "URL": "https://www.calculator.net/pace-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/06.png",
+            "URL": "https://groww.in/calculators/ppf-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/07.png",
-            "URL": "https://www.calculator.net/army-body-fat-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/07.png",
+            "URL": "https://groww.in/calculators/epf-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/08.png",
-            "URL": "https://www.calculator.net/weight-watchers-points-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/08.png",
+            "URL": "https://groww.in/calculators/fd-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/09.png",
-            "URL": "https://www.calculator.net/lean-body-mass-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/09.png",
+            "URL": "https://groww.in/calculators/rd-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/10.png",
-            "URL": "https://www.calculator.net/healthy-weight-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/10.png",
+            "URL": "https://groww.in/calculators/nps-calculator"
         },
         {
-            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-HealthCalculators/main/11.png",
-            "URL": "https://www.calculator.net/calories-burned-calculator.html"
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/11.png",
+            "URL": "https://groww.in/calculators/hra-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/12.png",
+            "URL": "https://groww.in/calculators/retirement-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/13.png",
+            "URL": "https://groww.in/calculators/emi-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/14.png",
+            "URL": "https://groww.in/calculators/car-loan-emi-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/15.png",
+            "URL": "https://groww.in/calculators/home-loan-emi-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/16.png",
+            "URL": "https://groww.in/calculators/simple-interest-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/17.png",
+            "URL": "https://groww.in/calculators/compound-interest-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/18.png",
+            "URL": "https://groww.in/calculators/nsc-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/19.png",
+            "URL": "https://groww.in/calculators/income-tax-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/20.png",
+            "URL": "https://groww.in/calculators/gratuity-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/21.png",
+            "URL": "https://groww.in/calculators/apy-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/22.png",
+            "URL": "https://groww.in/calculators/cagr-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/23.png",
+            "URL": "https://groww.in/calculators/gst-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/24.png",
+            "URL": "https://groww.in/calculators/flat-vs-reducing-rate-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/25.png",
+            "URL": "https://groww.in/calculators/brokerage-calculator"
+        },
+        {
+            "MenuIcon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-FinanceCalculator/main/26.png",
+            "URL": "https://groww.in/calculators/margin-calculator"
         }
   ]
